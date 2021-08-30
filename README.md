@@ -10,6 +10,3 @@ List of GitHub repository links for quick reference
 # Requested Scans
 - [SpenceKonde/megaTinyCore](https://github.com/SpenceKonde/megaTinyCore)
 - [SpenceKonde/DxCore ](https://github.com/SpenceKonde/DxCore)
-
-# Picked up in Third-Party Scans
-- [stm32f0xx_hal_driver](https://github.com/STMicroelectronics/stm32f0xx_hal_driver)
