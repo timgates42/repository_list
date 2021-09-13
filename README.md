@@ -10,3 +10,4 @@ List of GitHub repository links for quick reference
 # Requested Scans
 - [SpenceKonde/megaTinyCore](https://github.com/SpenceKonde/megaTinyCore)
 - [SpenceKonde/DxCore ](https://github.com/SpenceKonde/DxCore)
+- [mynewt-nimble](https://github.com/apache/mynewt-nimble)
