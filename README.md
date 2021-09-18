@@ -8,6 +8,7 @@ List of GitHub repository links for quick reference
 - [Singularity](https://github.com/singularity/singularity)
 - [VBoxVmService](https://github.com/onlyfang/VBoxVmService)
 - [Lectrote](https://github.com/erkyrath/lectrote)
+- [zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python)
 
 # Requested Scans
 - [SpenceKonde/megaTinyCore](https://github.com/SpenceKonde/megaTinyCore)
