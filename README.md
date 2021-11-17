@@ -11,6 +11,7 @@ List of GitHub repository links for quick reference
 - [zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python)
 - [Strava](https://github.com/sladkovm/stravaio)
 - [Okta Sign In Widget](https://github.com/okta/okta-signin-widget)
+- [Open Tracing Python](https://github.com/opentracing/opentracing-python)
 
 # Requested Scans
 - [SpenceKonde/megaTinyCore](https://github.com/SpenceKonde/megaTinyCore)
