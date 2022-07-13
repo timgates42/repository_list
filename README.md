@@ -13,6 +13,7 @@ List of GitHub repository links for quick reference
 - [Okta Sign In Widget](https://github.com/okta/okta-signin-widget)
 - [Open Tracing Python](https://github.com/opentracing/opentracing-python)
 - [Remove old forks](https://github.com/yangshun/delete-github-forks)
+- [Github App Library](https://github.com/NiklasRosenstein/python-github-bot-api/)
 
 # Requested Scans
 - [SpenceKonde/megaTinyCore](https://github.com/SpenceKonde/megaTinyCore)
