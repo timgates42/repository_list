@@ -14,6 +14,7 @@ List of GitHub repository links for quick reference
 - [Open Tracing Python](https://github.com/opentracing/opentracing-python)
 - [Remove old forks](https://github.com/yangshun/delete-github-forks)
 - [Github App Library](https://github.com/NiklasRosenstein/python-github-bot-api/)
+- [Postfix MTA STS Resolver](https://github.com/Snawoot/postfix-mta-sts-resolver)
 
 # Requested Scans
 - [SpenceKonde/megaTinyCore](https://github.com/SpenceKonde/megaTinyCore)
