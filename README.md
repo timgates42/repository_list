@@ -15,6 +15,7 @@ List of GitHub repository links for quick reference
 - [Remove old forks](https://github.com/yangshun/delete-github-forks)
 - [Github App Library](https://github.com/NiklasRosenstein/python-github-bot-api/)
 - [Postfix MTA STS Resolver](https://github.com/Snawoot/postfix-mta-sts-resolver)
+- [Flask DynamoDB Sessions](https://github.com/ibejohn818/flask-dynamodb-sessions)
 
 # Requested Scans
 - [SpenceKonde/megaTinyCore](https://github.com/SpenceKonde/megaTinyCore)
