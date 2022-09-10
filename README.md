@@ -16,6 +16,7 @@ List of GitHub repository links for quick reference
 - [Github App Library](https://github.com/NiklasRosenstein/python-github-bot-api/)
 - [Postfix MTA STS Resolver](https://github.com/Snawoot/postfix-mta-sts-resolver)
 - [Flask DynamoDB Sessions](https://github.com/ibejohn818/flask-dynamodb-sessions)
+- [Apache Avro](https://github.com/apache/avro)
 
 # Requested Scans
 - [SpenceKonde/megaTinyCore](https://github.com/SpenceKonde/megaTinyCore)
